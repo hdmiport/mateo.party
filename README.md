@@ -1,3 +1,2 @@
 # mateo.party
-hello this is my website
-# https://steamcommunity.com/id/hdmiport
+hello i am mateo and this is my website
